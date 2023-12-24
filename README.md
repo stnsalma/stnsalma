@@ -1,5 +1,3 @@
-### Hi there 👋
-
 README
 👋 Hi, I’m Umme Salma
 👀 I’m interested in programming, problem solving and software development.
